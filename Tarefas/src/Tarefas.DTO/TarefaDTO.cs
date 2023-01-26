@@ -12,4 +12,5 @@ namespace Tarefas.DTO
 
         public bool Concluida { get; set; }
     }
+
 }
